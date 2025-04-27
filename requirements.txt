@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_groq
+langchain_community
+PyPDFLoader
+faiss-cpu
+transformers
+torch
+sentence-transformers
